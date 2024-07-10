@@ -8,3 +8,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iSitanshu&theme=dark&layout=compact&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
+![Java](https://img.shields.io/badge/C++-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%23ED8B00.svg?style=for-the-badge&logo=css3&logoColor=white)
