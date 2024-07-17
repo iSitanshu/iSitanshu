@@ -9,6 +9,8 @@
 
 ---
 
+![](https://komarev.com/ghpvc/?username=iSitanshu&color=green)
+
 ## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iSitanshu&theme=dark&border_radius=10)](https://git.io/streak-stats)
